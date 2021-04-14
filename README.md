@@ -1,4 +1,4 @@
-# Setting Up with CQRS and the hexagonal architecure.
+# Setting up CQRS and the hexagonal architecure.
 
 ## Before we start, what does the application do?
 
