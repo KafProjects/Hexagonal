@@ -7,7 +7,7 @@ It is a console application that allows to:
       1. Show brands and employees of a company.
       2. Allows to create a brand by entering a name.
      
-## How to run solution? 
+## How to run the solution? 
 
       1. Assure the nugetpackages are loaded (if needed do a restore).
       2. Set the Hexagonal.Main as Start-up project, run the app and interact with the console.
