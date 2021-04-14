@@ -12,7 +12,7 @@ It is a console application that allows to:
       1. Assure the nugetpackages are loaded (if needed do a restore).
       2. Set the Hexagonal.Main as Start-up project, run the app and interact with the console.
 
-## How is the application build?
+## How is the application built?
 
 The application is organised to use CQRS and the Hexagonal Architecure.
 For this simple application the code seems to be a bit complex, but it allows us to understanding the patterns quickly.
