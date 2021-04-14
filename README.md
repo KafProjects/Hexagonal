@@ -10,7 +10,7 @@ It is a console application that allows to:
 ## How to run solution? 
 
       1. Assure the nugetpackages are loaded (if needed do a restore).
-      2. Start the Hexagonal.Main project and interact with the console.
+      2. Set the Hexagonal.Main as Start-up project, run the app and interact with the console.
 
 ## How is the application build?
 
